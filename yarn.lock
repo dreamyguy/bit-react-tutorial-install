@@ -1020,6 +1020,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@bit/dreamyguy.react-tutorial.product-list@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/dreamyguy.react-tutorial.product-list/-/dreamyguy.react-tutorial.product-list-0.0.1.tgz#f1bf6eb089e333e5fd40743606cb20cafb9f6d6b"
+  integrity sha1-8b9usInjM+X9QHQ2BssgyvufbWs=
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
