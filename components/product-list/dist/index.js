@@ -54,6 +54,11 @@ var ProductList = /*#__PURE__*/function (_Component) {
       window.alert('The product has been shared!');
     }
   }, {
+    key: "view",
+    value: function view() {
+      window.alert('The product has been viewed!');
+    }
+  }, {
     key: "getProduct",
     value: function getProduct(product, index) {
       return /*#__PURE__*/_react.default.createElement("div", {
@@ -64,7 +69,10 @@ var ProductList = /*#__PURE__*/function (_Component) {
       }, product.name)), /*#__PURE__*/_react.default.createElement("p", null, "Description: ", product.description, " "), /*#__PURE__*/_react.default.createElement("button", {
         className: "btn",
         onClick: this.share
-      }, "Share"));
+      }, "Share"), /*#__PURE__*/_react.default.createElement("button", {
+        className: "btn",
+        onClick: this.view
+      }, "View"));
     }
   }, {
     key: "render",

@@ -1,6 +1,7 @@
 .btn {
     display: inline-flex;
     align-items: center;
+    margin: 4px;
     padding: 8px 16px;
     border-radius: 2px;
     font-size: 14px;
@@ -9,12 +10,12 @@
     color: white;
     border: none;
   }
-  
+
   .btn:hover {
     opacity: 0.8;
     font-weight: normal;
   }
-  
+
   .btn:disabled {
     opacity: 0.5;
     cursor: auto;
