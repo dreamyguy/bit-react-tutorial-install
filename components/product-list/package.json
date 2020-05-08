@@ -1,6 +1,6 @@
 {
   "name": "@bit/dreamyguy.react-tutorial.product-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://bit.dev/dreamyguy/react-tutorial/product-list",
   "main": "dist/index.js",
   "dependencies": {},
